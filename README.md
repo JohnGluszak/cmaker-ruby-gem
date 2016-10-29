@@ -15,3 +15,6 @@ $ cmaker makeproject [PROJECT_NAME]
 ```
 This creates a C++ project that uses [CMake](https://cmake.org/) and [Google Test](https://github.com/google/googletest).  
 If you use [CLion](https://www.jetbrains.com/clion/), you can open the created project and run the sample unit test by running the ```run[PROJECT_NAME]Tests``` configuration. 
+
+## License
+This project is released under an MIT License. See LICENSE file for details.
