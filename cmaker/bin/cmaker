@@ -1,0 +1,2 @@
+require 'cmaker'
+puts CMaker.run(ARGV[0], ARGV[1])
